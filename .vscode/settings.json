@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "ballin.sln"
+    "dotnet.defaultSolution": "mid-project.sln"
 }
